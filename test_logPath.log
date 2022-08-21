@@ -1,0 +1,25 @@
+Welcome to the CBC MILP Solver 
+Version: 2.10.5 
+Build Date: Dec  8 2020 
+
+command line - cbc /tmp/a2e5735b5f3542458ecdfc5198ad83dc-pulp.mps mips /tmp/a2e5735b5f3542458ecdfc5198ad83dc-pulp.mst sec 20 branch printingOptions all solution /tmp/a2e5735b5f3542458ecdfc5198ad83dc-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 9 COLUMNS
+At line 20 RHS
+At line 25 BOUNDS
+At line 29 ENDATA
+Problem MODEL has 4 rows, 4 columns and 7 elements
+Coin0008I MODEL read with 0 errors
+opening mipstart file /tmp/a2e5735b5f3542458ecdfc5198ad83dc-pulp.mst.
+MIPStart values read for 4 variables.
+seconds was changed from 1e+100 to 20
+Presolve 1 (-3) rows, 2 (-2) columns and 2 (-5) elements
+0  Obj 51.9 Primal inf 2.099999 (1)
+1  Obj 54
+Optimal - objective value 54
+After Postsolve, objective 54, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 54 - 1 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.00   (Wallclock seconds):       0.01
+

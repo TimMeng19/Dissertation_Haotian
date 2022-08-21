@@ -1,0 +1,788 @@
+,id,name,lat,long,nbBikes,nbEmptyDocks,nbDocks,Count
+0,1,"River Street , Clerkenwell",51.52916347,-0.109970527,6,12,19,6885
+1,2,"Phillimore Gardens, Kensington",51.49960695,-0.197574246,16,20,37,18421
+2,3,"Christopher Street, Liverpool Street",51.52128377,-0.084605692,9,23,32,7258
+3,4,"St. Chad's Street, King's Cross",51.53005939,-0.120973687,5,17,23,7287
+4,5,"Sedding Street, Sloane Square",51.49313,-0.156876,22,5,27,22764
+5,6,"Broadcasting House, Marylebone",51.51811784,-0.144228881,1,16,18,15141
+6,7,"Charlbert Street, St. John's Wood",51.53430039,-0.1680743,4,12,16,9693
+7,8,"Maida Vale, Maida Vale",51.529857,-0.18348604,16,21,39,19720
+8,9,"New Globe Walk, Bankside",51.5073853,-0.096440751,18,1,19,10917
+9,10,"Park Street, Bankside",51.50597426,-0.092754157,18,0,18,8578
+10,11,"Brunswick Square, Bloomsbury",51.52395143,-0.122502346,24,0,24,15151
+11,12,"Malet Street, Bloomsbury",51.52168078,-0.130431727,3,45,49,17090
+12,13,"Scala Street, Fitzrovia",51.51991453,-0.136039674,11,10,21,8195
+13,14,"Belgrove Street , King's Cross",51.52994371,-0.123616824,39,6,48,37902
+14,15,"Great Russell Street, Bloomsbury",51.51772703,-0.127854211,13,12,26,11899
+15,16,"Cartwright Gardens , Bloomsbury",51.52635795,-0.125979294,1,19,21,9102
+16,17,"Hatton Wall, Holborn",51.5216612,-0.109006325,4,21,25,17969
+17,18,"Drury Lane, Covent Garden",51.51477076,-0.12221963,20,7,27,23818
+18,19,"Taviton Street, Bloomsbury",51.52505093,-0.131161087,2,26,30,12377
+19,20,"Drummond Street , Euston",51.527326,-0.13605286,11,17,28,5682
+20,21,"Lansdowne Drive, Hackney Central",51.539834,-0.062806212,8,18,26,0
+21,22,"Northington Street , Holborn",51.5222641,-0.114079481,5,13,19,13812
+22,23,"Red Lion Square, Holborn",51.51943538,-0.119123345,6,9,16,6999
+23,24,"British Museum, Bloomsbury",51.51908011,-0.124678402,21,12,35,15554
+24,25,"Doric Way , Somers Town",51.5288338,-0.132250369,23,24,50,13446
+25,26,"Ampton Street , Clerkenwell",51.52728093,-0.11829517,3,18,21,9279
+26,27,"Bouverie Street, Temple",51.51382102,-0.107927706,0,33,33,9135
+27,28,"Bolsover Street, Fitzrovia",51.52351808,-0.143613641,2,16,19,16364
+28,29,"Hereford Road, Bayswater",51.513735,-0.193487,7,14,22,13725
+29,30,"Windsor Terrace, Hoxton",51.52915444,-0.093421615,12,11,24,11580
+30,31,"Fanshaw Street, Hoxton",51.52953709,-0.083353323,10,26,36,15868
+31,32,"Leonard Circus , Shoreditch",51.52469624,-0.084439283,11,32,43,20588
+32,33,"Central House, Aldgate",51.515231,-0.07015,6,12,18,16433
+33,34,"Pancras Road, King's Cross",51.5341235,-0.129386874,8,7,16,8227
+34,36,"De Vere Gardens, Kensington",51.50173726,-0.184980612,2,26,28,16647
+35,37,"Penywern Road, Earl's Court",51.49159394,-0.192369256,3,14,17,15888
+36,38,"Abingdon Villas, Kensington",51.4973875,-0.197245586,7,10,17,9001
+37,39,"Shoreditch High Street, Shoreditch",51.5263778,-0.078130921,5,36,41,27360
+38,40,"Commercial Street, Shoreditch",51.52127071,-0.0755789,13,3,16,11292
+39,41,"Pindar Street, Liverpool Street",51.520955,-0.083493552,9,15,24,7510
+40,42,"Wenlock Road , Hoxton",51.53099181,-0.093903825,11,16,28,14532
+41,43,"Crawford Street, Marylebone",51.52026,-0.157183945,2,15,18,15828
+42,44,"Bruton Street, Mayfair",51.51073687,-0.144165239,7,14,21,8096
+43,45,"Boston Place, Marylebone",51.522511,-0.162298,22,2,26,17140
+44,46,"Nesham Street, Wapping",51.507131,-0.06691,5,3,16,20787
+45,47,"Warwick Avenue Station, Maida Vale",51.52334476,-0.183846408,8,9,19,17625
+46,48,"Godliman Street, St. Paul's",51.51248445,-0.099141408,0,24,25,13065
+47,49,"Curzon Street, Mayfair",51.50706909,-0.145904427,3,12,16,10186
+48,50,"East Road, Hoxton",51.52867339,-0.087459376,11,16,27,10224
+49,51,"Finsbury Library , Finsbury",51.52671796,-0.104298194,17,12,29,8476
+50,52,"Roscoe Street, St. Luke's",51.52295439,-0.094934859,5,13,18,13883
+51,53,"Grafton Street, Mayfair",51.5099923,-0.143495266,1,17,18,6551
+52,54,"Golden Lane, Barbican",51.52174785,-0.094475072,9,17,27,7302
+53,55,"Finsbury Circus, Liverpool Street",51.51707521,-0.086685542,20,13,33,22093
+54,56,"Paddington Street, Marylebone",51.52058381,-0.154701411,6,10,16,15107
+55,57,"Guilford Street , Bloomsbury",51.52334672,-0.120202614,8,23,32,16163
+56,58,"New Inn Yard, Shoreditch",51.52452699,-0.079248081,12,8,20,12990
+57,60,"Lisson Grove, St. John's Wood",51.52644828,-0.172190727,16,0,18,6212
+58,61,"Great Dover Street, The Borough",51.49738251,-0.089446947,16,17,33,13950
+59,62,"Cotton Garden Estate, Kennington",51.4907579,-0.106323685,5,19,24,7850
+60,63,"Murray Grove , Hoxton",51.53089041,-0.089782579,27,0,27,11340
+61,64,"William IV Street, Strand",51.50946212,-0.124749274,24,0,26,21222
+62,66,"Holborn Circus, Holborn",51.51795029,-0.108657431,33,5,40,17603
+63,67,"Hatton Garden, Holborn",51.51882555,-0.108028472,21,6,28,11376
+64,68,"Theobald's Road , Holborn",51.52059681,-0.116688468,13,13,26,14617
+65,69,"Euston Road, Euston",51.5262363,-0.134407652,11,12,24,10324
+66,70,"Calshot Street , King's Cross",51.53136059,-0.117069978,7,17,24,5969
+67,71,"Newgate Street , St. Paul's",51.5154186,-0.098850915,1,32,34,19829
+68,72,"Farringdon Lane, Clerkenwell",51.52352001,-0.108340165,10,5,16,10166
+69,73,"Old Street Station, St. Luke's",51.52548,-0.089659871,12,15,29,19113
+70,74,"Vauxhall Cross, Vauxhall",51.48591714,-0.124469948,12,4,17,36630
+71,75,"Torrens Street, Angel",51.53219984,-0.105480698,0,19,19,8313
+72,76,"Longford Street, The Regent's Park",51.52559505,-0.144083893,4,16,21,7864
+73,77,"Russell Square Station, Bloomsbury",51.52341837,-0.124121774,9,17,26,16437
+74,78,"Sadlers Sports Centre, Finsbury",51.52486887,-0.099489485,7,9,17,11488
+75,79,"Arundel Street, Temple",51.511726,-0.11385596,6,12,18,8534
+76,80,"Webber Street , Southwark",51.50069361,-0.102091246,18,27,45,13535
+77,81,"Great Titchfield Street, Fitzrovia",51.52025302,-0.141327271,5,13,19,11196
+78,82,"Chancery Lane, Holborn",51.514274,-0.111257,1,14,15,7384
+79,83,"Panton Street, West End",51.50963938,-0.131510949,17,4,21,29276
+80,84,"Breams Buildings, Holborn",51.51593725,-0.111778348,2,23,25,7087
+81,85,"Tanner Street, Bermondsey",51.50064702,-0.078600401,30,11,41,17504
+82,86,"Sancroft Street, Vauxhall",51.48947903,-0.115156562,15,9,24,7896
+83,87,"Devonshire Square, Liverpool Street",51.51646835,-0.079684557,5,11,16,4491
+84,88,"Bayley Street , Bloomsbury",51.51858757,-0.132053392,5,19,25,19466
+85,89,"Tavistock Place, Bloomsbury",51.5262503,-0.123509611,1,18,19,14413
+86,90,"Harrington Square 1, Camden Town",51.53301907,-0.139174593,3,24,27,6595
+87,91,"Walnut Tree Walk, Vauxhall",51.49368637,-0.111014912,10,10,20,12798
+88,92,"Borough Road, Elephant & Castle",51.49889832,-0.100440521,24,17,41,10551
+89,93,"Cloudesley Road, Angel",51.53440868,-0.109025404,9,28,37,10793
+90,94,"Bricklayers Arms, Borough",51.49506109,-0.085814489,21,6,28,19947
+91,95,"Aldersgate Street, Barbican",51.5208417,-0.097340162,10,4,15,17031
+92,96,"Falkirk Street, Hoxton",51.53095071,-0.078505384,11,15,26,10424
+93,97,"Gloucester Road (North), Kensington",51.49792478,-0.183834706,13,5,18,12732
+94,98,"Hampstead Road, Euston",51.52554222,-0.138231303,6,46,54,16036
+95,99,"Old Quebec Street, Marylebone",51.51457763,-0.158264483,2,12,16,26999
+96,100,"Albert Embankment, Vauxhall",51.49043573,-0.122806861,14,10,24,12571
+97,101,"Queen Street 1, Bank",51.51155322,-0.0929401,14,6,22,21796
+98,102,"Jewry Street, Aldgate",51.51340693,-0.076793375,7,9,17,14863
+99,103,"Vicarage Gate, Kensington",51.50472376,-0.192538767,0,16,18,8458
+100,104,"Crosswall, Tower",51.51159481,-0.077121322,30,4,34,23616
+101,105,"Westbourne Grove, Bayswater",51.51552971,-0.190240716,8,17,26,14147
+102,106,"Woodstock Street, Mayfair",51.51410514,-0.147301667,12,9,21,11002
+103,107,"Finsbury Leisure Centre, St. Luke's",51.52600832,-0.096317627,10,9,20,18715
+104,108,"Abbey Orchard Street, Westminster",51.49812559,-0.132102166,0,29,29,12751
+105,109,"Soho Square , Soho",51.51563144,-0.132328837,34,21,57,34762
+106,110,"Wellington Road, St. John's Wood",51.53304322,-0.172528678,17,0,17,10597
+107,111,"Park Lane , Hyde Park",51.5100172,-0.157275636,25,1,28,45525
+108,113,"Gloucester Road (Central), South Kensington",51.49646288,-0.183289032,6,13,19,11441
+109,114,"Park Road (Baker Street), The Regent's Park",51.52451738,-0.158963647,7,15,22,22053
+110,115,"Braham Street, Aldgate",51.51423368,-0.073537654,6,28,34,20572
+111,116,"Little Argyll Street, West End",51.51449962,-0.141423695,4,16,21,38647
+112,117,"Lollard Street, Vauxhall",51.49288067,-0.114934001,5,20,25,14058
+113,118,"Rochester Row, Westminster",51.49582705,-0.13547809,0,13,13,8187
+114,119,"Bath Street, St. Luke's",51.52589324,-0.090847761,7,10,18,17603
+115,120,"The Guildhall, Guildhall",51.51573534,-0.093080779,0,16,17,5698
+116,121,"Baker Street, Marylebone",51.51891348,-0.156166631,1,21,22,11612
+117,122,"Norton Folgate, Liverpool Street",51.52111369,-0.078869751,15,8,23,12678
+118,123,"St. John Street, Finsbury",51.52836014,-0.104724625,9,9,18,6952
+119,124,"Eaton Square, Belgravia",51.49654462,-0.150905245,7,13,20,7403
+120,125,"Borough High Street, The Borough",51.50069491,-0.094524319,10,10,21,14562
+121,126,"Museum of London, Barbican",51.51782144,-0.096496865,6,46,52,11621
+122,127,"Wood Street, Guildhall",51.51700801,-0.09388536,0,17,17,6133
+123,128,"Emperor's Gate, South Kensington",51.49536226,-0.185296516,1,21,22,13702
+124,129,"Golden Square, Soho",51.5118973,-0.137043852,15,3,18,18664
+125,130,"Tower Gardens , Tower",51.50950627,-0.075459482,8,16,24,42233
+126,131,"Eversholt Street , Camden Town",51.53300545,-0.136792671,1,15,16,8368
+127,132,"Bethnal Green Road, Shoreditch",51.52364804,-0.074754872,26,12,38,36364
+128,133,"Derry Street, Kensington",51.50136494,-0.191462381,2,14,18,28677
+129,134,"Wapping High Street, Wapping",51.504904,-0.06797,6,13,20,10089
+130,135,"Clerkenwell Green, Clerkenwell",51.52326004,-0.104708922,3,16,21,16172
+131,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,20,12,32,16707
+132,138,"Green Street, Mayfair",51.51227622,-0.157436972,8,9,19,25152
+133,139,"Lambeth Road, Vauxhall",51.49488108,-0.117974901,15,3,18,11993
+134,140,"Finsbury Square , Moorgate",51.52096262,-0.085634242,20,13,33,11164
+135,141,"Chapel Place, Marylebone",51.51530805,-0.147203711,3,26,29,14182
+136,142,"West Cromwell Road, Earl's Court",51.49372451,-0.198286569,10,14,24,11924
+137,143,"Pont Street, Knightsbridge",51.4968865,-0.161203828,19,4,24,12955
+138,144,"Kennington Cross, Kennington",51.48894022,-0.111435796,8,39,47,19364
+139,145,"Ilchester Place, Kensington",51.50074359,-0.202759212,2,21,24,5811
+140,146,"Vauxhall Bridge , Pimlico",51.48836528,-0.129361842,21,13,35,8825
+141,148,"Tachbrook Street, Victoria",51.49211134,-0.138364847,16,0,16,14235
+142,149,"Kennington Road Post Office, Oval",51.48478899,-0.110683213,7,11,18,13870
+143,150,"Holy Trinity Brompton, Knightsbridge",51.49705603,-0.168917077,18,9,28,13920
+144,151,"Chepstow Villas, Notting Hill",51.51213691,-0.201554966,0,26,26,11327
+145,152,"Hampton Street, Walworth",51.49217002,-0.101536865,21,0,21,14989
+146,153,"Bayswater Road, Hyde Park",51.511933,-0.174411,13,13,27,37775
+147,154,"Waterloo Station 3, Waterloo",51.50379168,-0.11282408,33,0,35,37975
+148,155,"Lexham Gardens, Kensington",51.49586666,-0.191933711,18,0,19,12835
+149,156,"New Kent Road, The Borough",51.49443626,-0.092921165,15,18,33,9697
+150,157,"Wright's Lane, Kensington",51.50039792,-0.193068385,3,34,37,16995
+151,158,"Trebovir Road, Earl's Court",51.49085368,-0.196170309,4,13,18,13441
+152,160,"Waterloo Place, St. James's",51.50663341,-0.131773845,4,15,20,17172
+153,161,"Guildhouse Street, Victoria",51.49234577,-0.141334487,15,1,16,8913
+154,162,"Southampton Place, Holborn",51.51760685,-0.121328408,4,16,20,14068
+155,163,"Sloane Avenue, Knightsbridge",51.4931848,-0.167894973,4,22,27,21770
+156,164,"Cleveland Gardens, Bayswater",51.515607,-0.183118788,4,12,16,8594
+157,165,"Orsett Terrace, Bayswater",51.517932,-0.183716959,5,10,15,5068
+158,166,"Seville Street, Knightsbridge",51.50185512,-0.159237081,4,22,27,12854
+159,167,"Eccleston Place, Victoria",51.49395092,-0.147624377,13,5,19,20969
+160,168,"Argyll Road, Kensington",51.50040123,-0.195455928,2,17,19,9949
+161,169,"Porchester Place, Paddington",51.51474612,-0.165164288,1,17,18,21205
+162,170,"Hardwick Street, Clerkenwell",51.52784273,-0.108068155,7,23,30,6392
+163,171,"Collingham Gardens, Earl's Court",51.4916156,-0.186753859,6,8,14,11753
+164,172,"Sumner Place, South Kensington",51.49121192,-0.173715911,2,17,19,10852
+165,173,"Waterloo Road, South Bank",51.50486,-0.113001,15,0,15,12097
+166,174,"Strand, Strand",51.512582,-0.1150573,17,17,35,2907
+167,175,"Worship Street, Shoreditch",51.521668,-0.079608554,27,24,51,10284
+168,176,"Gloucester Terrace, Bayswater",51.51791921,-0.188098863,3,20,23,10642
+169,177,"Ashley Place, Victoria",51.49616092,-0.140947636,25,0,25,14135
+170,178,"Warwick Square, Pimlico",51.48985626,-0.141923621,18,0,19,15143
+171,180,"North Audley Street, Mayfair",51.5129118,-0.153645496,10,6,17,16821
+172,181,"Belgrave Square, Belgravia",51.49941247,-0.152317537,4,17,21,7427
+173,182,"Bell Street , Marylebone",51.52202903,-0.165842551,9,9,18,9774
+174,183,"Riverlight North, Nine Elms",51.482362,-0.13612398,20,3,24,24299
+175,184,"Portland Place, Marylebone",51.52071513,-0.14521173,1,31,34,12961
+176,185,"Alderney Street, Pimlico",51.48805753,-0.140741432,14,0,14,20311
+177,186,"South Wharf Road, Paddington",51.51733558,-0.175810943,15,1,16,19548
+178,187,"Queen's Gate (South), South Kensington",51.49247977,-0.178433004,3,21,25,15520
+179,188,"Nutford Place, Marylebone",51.5165179,-0.164393768,2,15,18,8497
+180,189,"Claremont Square, Angel",51.53166681,-0.109914711,6,12,18,8555
+181,190,"Rampayne Street, Pimlico",51.48997562,-0.132845681,16,3,21,15460
+182,191,"Hyde Park Corner, Hyde Park",51.50311799,-0.153520935,5,27,36,89353
+183,192,"Wardour Street, Soho",51.51251523,-0.133201961,10,5,16,24489
+184,193,"Bankside Mix, Bankside",51.50581776,-0.100186337,37,23,60,12056
+185,194,"Hop Exchange, The Borough",51.50462759,-0.091773776,55,0,56,50216
+186,195,"Milroy Walk, South Bank",51.50724437,-0.106237501,1,29,30,15350
+187,196,"Union Street, The Borough",51.50368837,-0.098497684,5,12,17,12131
+188,197,"Stamford Street, South Bank",51.50556905,-0.111606696,14,13,27,12208
+189,199,"Great Tower Street, Monument",51.51048489,-0.082989638,6,17,24,28218
+190,200,"LMU Commercial Road, Whitechapel",51.51492456,-0.066078037,6,7,14,14561
+191,201,"Dorset Square, Marylebone",51.5225965,-0.161113413,11,3,16,17629
+192,202,"Leman Street, Aldgate",51.51236389,-0.06954201,14,21,37,21959
+193,203,"West Smithfield Rotunda, Farringdon",51.51821864,-0.100791005,0,15,15,15735
+194,204,"Margery Street, Clerkenwell",51.52659961,-0.112432615,1,18,19,8125
+195,206,"New Road 1 , Whitechapel",51.518154,-0.062697,23,11,36,19144
+196,207,"Grosvenor Crescent, Belgravia",51.50135267,-0.153194766,16,2,18,4253
+197,208,"Mallory Street, Marylebone",51.52505151,-0.166304359,3,17,20,6265
+198,210,"Hinde Street, Marylebone",51.51681444,-0.151926305,3,16,21,19023
+199,211,"Cadogan Place, Knightsbridge",51.49464523,-0.158105512,18,16,34,14744
+200,212,"Campden Hill Road, Notting Hill",51.50658458,-0.199004026,0,17,17,4908
+201,213,"Wellington Arch, Hyde Park",51.50274025,-0.149569201,3,32,36,61084
+202,214,"Endsleigh Gardens, Euston",51.52683806,-0.130504336,31,1,32,16187
+203,215,"Moorfields, Moorgate",51.51906932,-0.088285377,21,33,54,15399
+204,216,"Old Brompton Road, South Kensington",51.49094565,-0.181190899,7,22,30,16295
+205,217,"Wormwood Street, Liverpool Street",51.51615461,-0.082422399,0,15,16,40912
+206,218,"St. Luke's Church, Chelsea",51.48971651,-0.170194408,4,16,20,15584
+207,219,"Bramham Gardens, Earl's Court",51.49016361,-0.19039362,14,14,29,22563
+208,220,"Chelsea Green, Chelsea",51.49066456,-0.166485083,7,20,27,11230
+209,221,"Horseferry Road, Westminster",51.49481649,-0.13045856,2,11,16,12714
+210,222,"Knightsbridge, Hyde Park",51.50275704,-0.155349725,0,43,43,14192
+211,223,"Rodney Road , Walworth",51.49148474,-0.090220911,5,19,24,14005
+212,224,"Queensway, Kensington Gardens",51.51031,-0.18740235,7,10,17,27318
+213,225,"Notting Hill Gate Station, Notting Hill",51.50935342,-0.196422,3,26,30,21048
+214,226,"Charles II Street, West End",51.50844614,-0.131961389,18,6,24,17551
+215,227,"Great Percy Street, Clerkenwell",51.52891573,-0.115480888,9,14,23,9808
+216,228,"St. James's Square, St. James's",51.50742485,-0.134621209,17,22,40,27165
+217,229,"Whitehall Place, Strand",51.50654321,-0.123179697,28,16,46,34905
+218,230,"Poured Lines, Bankside",51.50669284,-0.103137426,9,22,31,9903
+219,231,"Queen's Gate (Central), South Kensington",51.49396755,-0.17873226,13,16,31,12182
+220,232,"Carey Street, Holborn",51.51501025,-0.112753217,10,5,16,4574
+221,233,"Pall Mall East, West End",51.50777049,-0.130699733,19,3,22,24482
+222,234,"Liverpool Road (N1 Centre), Angel",51.53450449,-0.106992706,13,11,24,16231
+223,235,"Kennington Road  , Vauxhall",51.49571828,-0.110889274,4,32,36,11692
+224,236,"Fashion Street, Whitechapel",51.51838043,-0.073438925,30,0,30,8112
+225,237,"Dock Street, Wapping",51.50978602,-0.068161981,17,12,30,13515
+226,238,"Frampton Street, Paddington",51.5233534,-0.175116099,7,23,32,9608
+227,239,"Warren Street Station, Euston",51.52443845,-0.138019439,17,7,26,31987
+228,240,"Colombo Street, Southwark",51.50545935,-0.10569204,3,11,14,3969
+229,242,"Beaumont Street, Marylebone",51.52200801,-0.151359288,1,22,23,13741
+230,243,"Gloucester Street, Pimlico",51.49096258,-0.139625122,18,7,25,15506
+231,244,"Earnshaw Street , Covent Garden",51.51611887,-0.128585022,3,15,18,16241
+232,245,"Grosvenor Road, Pimlico",51.4853572,-0.142207481,19,10,29,8137
+233,246,"Berry Street, Clerkenwell",51.52285301,-0.099994052,28,11,41,15194
+234,247,"St. John's Wood Church, The Regent's Park",51.530529,-0.167515,48,2,50,12892
+235,248,"Triangle Car Park, Hyde Park",51.50645179,-0.170279555,3,23,27,44688
+236,249,"Harper Road, The Borough",51.49859784,-0.096191134,11,31,42,9984
+237,250,"Royal Avenue 1, Chelsea",51.489932,-0.162727,3,7,10,8983
+238,251,"Brushfield Street, Liverpool Street",51.518908,-0.079249,16,17,34,39198
+239,252,"Jubilee Gardens, South Bank",51.5046364,-0.116542278,29,0,30,33459
+240,253,"Shoreditch Park, Hoxton",51.53404294,-0.086379717,12,18,30,17252
+241,254,"Chadwell Street, Angel",51.53051587,-0.106408455,14,4,18,12308
+242,255,"Clifton Road, Maida Vale",51.52557531,-0.179592915,15,7,22,11591
+243,256,"Houghton Street, Strand",51.51362054,-0.116764211,0,15,15,7450
+244,257,"Westminster University, Marylebone",51.52248185,-0.154907218,6,10,16,9823
+245,258,"Kensington Gore, Knightsbridge",51.50143293,-0.178656971,17,5,23,6230
+246,259,"Bourne Street, Belgravia",51.490959,-0.1532331,14,2,16,13270
+247,260,"Broadwick Street, Soho",51.5136846,-0.135580879,11,7,18,18488
+248,261,"Princes Square, Bayswater",51.5134891,-0.191351186,2,12,15,7789
+249,262,"LSBU (Borough Road), Elephant & Castle",51.49874469,-0.103132904,12,22,35,8924
+250,263,"St. Mary Axe, Aldgate",51.51422502,-0.080660083,0,20,21,11354
+251,264,"Tysoe Street, Clerkenwell",51.52644342,-0.109256828,18,2,20,15987
+252,265,"Southwick Street, Paddington",51.51595344,-0.169249375,11,6,17,13397
+253,266,"Queen's Gate (North), Kensington",51.50102668,-0.180246101,32,9,41,13371
+254,267,"Regency Street, Westminster",51.49206037,-0.132224622,21,1,22,12544
+255,268,"Belgrave Road, Victoria",51.49320445,-0.144132875,25,3,29,14728
+256,269,"Empire Square, The Borough",51.50082346,-0.089740764,8,38,46,16971
+257,270,"Kennington Lane Rail Bridge, Vauxhall",51.4863434,-0.122492418,29,1,31,29716
+258,271,"London Zoo,  The Regent's Park",51.53583617,-0.156285395,15,17,32,13232
+259,272,"Baylis Road, Waterloo",51.50144456,-0.110699309,20,1,22,26042
+260,273,"Belvedere Road 1, South Bank",51.50613324,-0.114686385,24,14,38,16677
+261,274,"Warwick Road, Olympia",51.49671237,-0.20528437,26,10,36,18571
+262,275,"Barbican Centre, Barbican",51.52004497,-0.092176447,17,2,19,11352
+263,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,17,7,24,8771
+264,277,"Kensington Church Street, Kensington",51.50315739,-0.191496313,9,8,17,14592
+265,278,"Tooley Street, Bermondsey",51.5034938,-0.07962099,24,3,27,42735
+266,279,"North Wharf Road, Paddington",51.51862243,-0.176645823,3,21,25,10746
+267,280,"Royal Avenue 2, Chelsea",51.490083,-0.162418,2,7,10,16337
+268,281,"Smith Square, Westminster",51.49580589,-0.127575233,0,18,18,13138
+269,282,"Royal London Hospital, Whitechapel",51.518675,-0.06111,35,6,42,24639
+270,283,"Kingsway, Covent Garden",51.51440928,-0.118478757,2,14,16,4647
+271,284,"Lambeth North Station, Waterloo",51.49914063,-0.112031483,19,1,20,9387
+272,286,"St. John's Wood Road, St. John's Wood",51.5272947,-0.174653609,35,0,35,8942
+273,287,"Bedford Way, Bloomsbury",51.52367314,-0.128377673,2,21,23,5926
+274,288,"Elizabeth Bridge, Victoria",51.49236962,-0.147478734,26,7,34,16583
+275,289,"South Audley Street, Mayfair",51.50923022,-0.151296092,0,15,15,5750
+276,290,"St Mary's Hospital, Paddington",51.518268,-0.17110323,3,15,20,23750
+277,291,"Claverton Street, Pimlico",51.48483991,-0.138089062,18,13,32,12835
+278,293,"Kensington Olympia Station, Olympia",51.49815779,-0.209494128,9,15,25,10514
+279,294,"St. George's Square, Pimlico",51.488226,-0.135635511,10,5,16,18094
+280,295,"Swan Street, The Borough",51.50029631,-0.092762704,5,22,27,10648
+281,296,"Knaresborough Place, Earl's Court",51.49363156,-0.190603326,10,8,18,13330
+282,297,"Geraldine Street, Elephant & Castle",51.49612799,-0.106000855,8,9,17,4861
+283,298,"Curlew Street, Shad Thames",51.50227992,-0.074189225,3,16,21,17691
+284,299,"Vincent Square, Westminster",51.49398524,-0.136928582,12,7,19,6503
+285,300,"Serpentine Car Park, Hyde Park",51.505014,-0.17306032,1,14,17,43959
+286,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,7,17,24,21171
+287,302,"Putney Pier, Wandsworth",51.466907,-0.216573,26,2,28,10723
+288,303,"Albert Gate, Hyde Park",51.50295379,-0.158456089,4,29,34,54690
+289,306,"Rathbone Street, Fitzrovia",51.51816295,-0.135025698,4,12,16,8546
+290,307,"Black Lion Gate, Kensington Gardens",51.50990837,-0.187842717,14,10,24,52385
+291,308,"Long Lane , Bermondsey",51.49907558,-0.085666316,10,9,20,12110
+292,309,"Embankment (Savoy), Strand",51.50963123,-0.119047563,4,36,41,12860
+293,310,"Black Prince Road, Vauxhall",51.4908679,-0.116911864,14,5,19,13824
+294,311,"Foley Street, Fitzrovia",51.51918144,-0.140485596,1,22,24,12604
+295,312,"Grove End Road, St. John's Wood",51.53088935,-0.176770502,5,14,20,11386
+296,313,"Wells Street, Fitzrovia",51.51734403,-0.138072691,6,32,38,17276
+297,314,"Tyers Gate, Bermondsey",51.50088934,-0.083159352,35,1,36,11385
+298,315,"The Tennis Courts, The Regent's Park",51.52536703,-0.153463612,8,8,16,16375
+299,316,"Warwick Row, Westminster",51.497998,-0.14296064,1,20,21,21580
+300,317,"Dickens Square, Borough",51.49679128,-0.093913472,6,24,32,6538
+301,318,"Sackville Street, Mayfair",51.51004801,-0.138846453,1,17,18,14845
+302,320,"Queen Mother Sports Centre, Victoria",51.49357351,-0.139956043,20,4,26,15841
+303,321,"Bermondsey Street, Bermondsey",51.49785559,-0.081608045,4,20,24,22771
+304,322,"Palissy Street, Shoreditch",51.526293,-0.073955,2,24,26,10049
+305,323,"Clifton Street, Shoreditch",51.523196,-0.083067,19,5,24,5594
+306,324,"Ontario Street, Elephant & Castle",51.49652013,-0.101384068,14,1,15,14585
+307,325,"St. Martin's Street, West End",51.50908747,-0.129697889,11,6,18,10911
+308,326,"Graham Street, Angel",51.53266186,-0.099981142,8,18,26,17644
+309,327,"New North Road 1, Hoxton",51.53095,-0.085603,14,8,22,3722
+310,328,"New North Road 2, Hoxton",51.53114,-0.086016,17,5,22,5473
+311,329,"Prince Albert Road, The Regent's Park",51.53589283,-0.160854428,6,18,24,12179
+312,330,"Eastbourne Mews, Paddington",51.51641749,-0.179135079,7,26,34,15620
+313,331,"Bunhill Row, Moorgate",51.52085887,-0.089887855,9,21,30,18733
+314,333,"Palace Gardens Terrace, Notting Hill",51.50860544,-0.193764092,6,30,37,15964
+315,334,"Concert Hall Approach 1, South Bank",51.505044,-0.115851,9,0,10,9944
+316,335,"Tavistock Street, Covent Garden",51.51196803,-0.120718759,29,3,33,17200
+317,336,"Concert Hall Approach 2, South Bank",51.504942,-0.115533,18,0,18,9082
+318,337,"Pembridge Villas, Notting Hill",51.51108452,-0.197524944,13,2,16,10742
+319,338,"Wellington Street , Strand",51.51175646,-0.119643424,22,1,24,24416
+320,339,"Risinghill Street, Angel",51.5333196,-0.1117812,8,14,25,5019
+321,340,"Bank of England Museum, Bank",51.51444134,-0.087587447,0,16,16,16484
+322,341,"Craven Street, Strand",51.50810309,-0.12602103,20,3,23,32410
+323,343,"London Zoo Car Park, The Regent's Park",51.53692216,-0.150181444,20,16,36,10801
+324,344,"Goswell Road (City Uni), Finsbury",51.528246,-0.10102611,6,11,17,7051
+325,345,"Flood Street, Chelsea",51.48802358,-0.166878535,33,0,33,22612
+326,347,"Lower Marsh, Waterloo",51.50013942,-0.113936001,14,3,17,14020
+327,348,"Grosvenor Square, Mayfair",51.51217033,-0.150481272,14,3,17,13679
+328,349,"St. George Street, Mayfair",51.51196,-0.142783033,3,15,18,11628
+329,350,"Queen's Gate, Kensington Gardens",51.50171544,-0.179854184,11,8,21,32107
+330,351,"Macclesfield Rd, St Lukes",51.529423,-0.097122,11,17,28,17660
+331,352,"Vauxhall Street, Vauxhall",51.486965,-0.116625,14,5,19,11049
+332,353,"Greycoat Street , Westminster",51.49459148,-0.134234258,8,7,17,5099
+333,354,"Northumberland Avenue, Strand",51.506767,-0.123702,26,11,37,19227
+334,355,"Clapham Common Station, Clapham Common",51.461388,-0.13922146,13,8,21,28609
+335,356,"South Kensington Station, South Kensington",51.494412,-0.173881,14,1,15,27717
+336,357,"Howland Street, Fitzrovia",51.520994,-0.139016,4,25,30,15459
+337,358,"High Holborn , Covent Garden",51.516226,-0.124826,4,15,20,15469
+338,359,"Butler Place, Westminster",51.49782999,-0.135440826,2,15,18,9334
+339,360,"Howick Place, Westminster",51.49675303,-0.138733562,13,14,27,14833
+340,361,"Waterloo Station 2, Waterloo",51.50391973,-0.11342629,54,0,55,23903
+341,362,"Royal College Street, Camden Town",51.536264,-0.133952,2,55,57,10504
+342,363,"Lord's, St. John's Wood",51.5291212,-0.171185285,24,0,24,3959
+343,364,"Store Street, Bloomsbury",51.519572,-0.13214036,10,21,32,11283
+344,365,"City Road, Angel",51.530344,-0.100168,25,22,47,10156
+345,366,"Millennium Hotel, Mayfair",51.5109193,-0.151126385,18,9,27,7901
+346,367,"Harrowby Street, Marylebone",51.5173721,-0.1642075,9,7,16,10837
+347,368,"Harriet Street, Knightsbridge",51.50024195,-0.15934065,21,2,25,16360
+348,370,"Paddington Green, Paddington",51.520205,-0.174593,10,10,20,4394
+349,371,"King Edward Walk, Waterloo",51.49775,-0.10988,9,13,22,4361
+350,372,"Sardinia Street, Holborn",51.515208,-0.117863,11,13,24,9055
+351,373,"Prince Consort Road, Knightsbridge",51.49980661,-0.176415994,1,17,18,10249
+352,374,"Waterloo Station 1, Waterloo",51.50402794,-0.11386436,34,0,36,37929
+353,375,"Kensington Town Hall, Kensington",51.50194596,-0.194392952,4,12,18,7222
+354,376,"Millbank Tower, Pimlico",51.49188409,-0.125674815,0,23,24,15502
+355,377,"Waterloo Bridge, South Bank",51.50535447,-0.113656543,7,7,15,7100
+356,378,"Natural History Museum, South Kensington",51.49559291,-0.179077626,21,21,42,12003
+357,379,"Turquoise Island, Notting Hill",51.51431171,-0.200838199,6,15,21,15189
+358,380,"Stanhope Gate, Mayfair",51.50686435,-0.150666888,7,14,21,6872
+359,381,"Charlotte Street, Fitzrovia",51.51953043,-0.13577731,5,8,14,13032
+360,382,"Farm Street, Mayfair",51.50935171,-0.14744969,0,14,15,6243
+361,383,"Frith Street, Soho",51.51310333,-0.13121385,17,0,18,18123
+362,384,"Marloes Road, Kensington",51.496481,-0.192404,15,0,15,6672
+363,386,"Moor Street, Soho",51.51352755,-0.130110822,14,0,16,29075
+364,387,"Fire Brigade Pier, Vauxhall",51.49369988,-0.121394101,0,30,30,14169
+365,388,"Southampton Street, Strand",51.51070161,-0.121723604,12,2,14,18058
+366,389,"Upper Grosvenor Street, Mayfair",51.51013066,-0.155757901,0,18,18,5762
+367,390,"Buxton Street 1, Shoreditch",51.521776,-0.068856,5,36,41,6368
+368,391,"Clifford Street, Mayfair",51.51066202,-0.142345694,1,16,17,7517
+369,392,"Imperial College, Knightsbridge",51.49942855,-0.179702476,0,19,21,19701
+370,393,"Snow Hill, Farringdon",51.51733427,-0.103604248,2,12,15,7532
+371,394,"Aberdeen Place, St. John's Wood",51.524826,-0.176268,9,8,18,7863
+372,395,"Cadogan Gardens, Chelsea",51.492462,-0.159919,10,5,15,16246
+373,396,"Shouldham Street, Marylebone",51.51809,-0.163609,15,1,16,10947
+374,397,"Devonshire Terrace, Bayswater",51.51348,-0.17977,5,11,16,20598
+375,398,"Holland Park, Kensington",51.502319,-0.200742,12,18,30,9897
+376,399,"Brick Lane Market, Shoreditch",51.52261762,-0.071653961,13,11,24,15365
+377,400,"George Street, Marylebone",51.517703,-0.154106,4,22,26,12266
+378,401,"Columbia Road, Shoreditch",51.528187,-0.075375,7,16,24,15897
+379,402,"Penfold Street, Marylebone",51.52289229,-0.171681991,7,7,15,5736
+380,403,"George Place Mews, Marylebone",51.51689296,-0.158249929,0,15,16,10894
+381,404,"Palace Gate, Kensington Gardens",51.50204238,-0.184400221,0,12,13,31372
+382,405,"Gloucester Road Station, South Kensington",51.49418566,-0.18267094,1,14,15,27095
+383,408,"Sun Street, Liverpool Street",51.520009,-0.083935724,9,15,24,1358
+384,409,"Strata, Elephant & Castle",51.493146,-0.099828,26,14,41,24577
+385,410,"Edgware Road Station, Marylebone",51.519968,-0.169774,29,35,64,15704
+386,411,"Rotherhithe Roundabout, Rotherhithe",51.499169,-0.055846029,12,7,19,9783
+387,412,"Cleaver Street, Kennington",51.488105,-0.110121,17,0,17,7392
+388,419,"Chelsea Bridge, Pimlico",51.485821,-0.149004,2,13,15,17148
+389,420,"Southwark Station 1, Southwark",51.504043,-0.105312,26,10,37,10998
+390,421,"Southwark Station 2, Southwark",51.504044,-0.104778,14,31,45,9398
+391,423,"Eaton Square (South), Belgravia",51.49456127,-0.15393398,30,1,31,8752
+392,424,"Ebury Bridge, Pimlico",51.490491,-0.149186,29,0,29,11662
+393,426,"Vincent Street, Pimlico",51.493072,-0.129925,6,11,17,11337
+394,427,"Cheapside, Bank",51.51397065,-0.09294031,8,34,43,29002
+395,428,"Exhibition Road, Knightsbridge",51.499917,-0.174554,0,19,20,34150
+396,430,"South Parade, Chelsea",51.48902,-0.17524,4,14,18,10054
+397,431,"Crinan Street, King's Cross",51.534474,-0.122203,13,7,20,5214
+398,432,"Exhibition Road Museums 1, South Kensington",51.496468,-0.17379696,0,13,13,13479
+399,433,"Wren Street, Holborn",51.524564,-0.116279,4,29,33,12298
+400,435,"Kennington Station, Kennington",51.488852,-0.105593,12,11,23,11620
+401,436,"Red Lion Street, Holborn",51.51824,-0.11655,4,32,36,15006
+402,437,"Vauxhall Walk, Vauxhall",51.488124,-0.120903,23,2,27,9647
+403,439,"Killick Street, King's Cross",51.5338,-0.118677,2,20,22,4038
+404,440,"Kennington Oval, Oval",51.483145,-0.113134,14,18,33,11580
+405,441,"Sail Street, Vauxhall",51.495656,-0.114605,21,2,24,8931
+406,442,"Walmer Road, Avondale",51.510101,-0.211358,4,19,24,5400
+407,443,"Philpot Street, Whitechapel",51.515256,-0.058641,3,26,30,11349
+408,444,"Bethnal Green Garden, Bethnal Green",51.52568,-0.055312,3,21,24,10469
+409,445,"Cheshire Street, Bethnal Green",51.52388,-0.065076,10,18,28,11372
+410,446,"York Hall, Bethnal Green",51.528936,-0.055894,13,14,27,12692
+411,447,"Jubilee Crescent, Cubitt Town",51.493381,-0.007542,13,41,54,3907
+412,448,"Fisherman's Walk West, Canary Wharf",51.50623,-0.02296,32,1,36,10599
+413,449,"Shadwell Station, Shadwell",51.511088,-0.057159,15,19,35,16229
+414,450,"Jubilee Street, Stepney",51.515975,-0.053177,11,17,28,9044
+415,451,"Hermitage Court, Wapping",51.504719,-0.063531,9,7,16,9335
+416,452,"St. Katharine's Way, Tower",51.505697,-0.070542,9,14,24,12691
+417,453,"Garnet Street, Shadwell",51.508447,-0.055167,4,19,24,9918
+418,454,"Napier Avenue, Millwall",51.487679,-0.021582,18,1,20,5327
+419,455,"East Ferry Road, Cubitt Town",51.49447,-0.014409,13,3,17,4945
+420,456,"Parkway, Camden Town",51.538071,-0.144664,33,0,33,8516
+421,457,"Castlehaven Road, Camden Town",51.542138,-0.145393,9,20,29,19817
+422,458,"Wapping Lane, Wapping",51.504749,-0.057544,18,10,28,13604
+423,459,"Gunmakers Lane, Old Ford",51.535179,-0.03338,8,7,17,13203
+424,460,"Burdett Road, Mile End",51.516196,-0.029138,30,2,33,12452
+425,461,"Aston Street, Stepney",51.516,-0.038775,11,15,26,9022
+426,462,"Bonny Street, Camden Town",51.541603,-0.138853,12,32,45,15995
+427,463,"Thurtle Road, Haggerston",51.534776,-0.071881,8,14,22,6053
+428,464,"St. Mary & St. Michael Church, Stepney",51.51417,-0.052099,1,24,25,3034
+429,465,"Pitfield Street North,Hoxton",51.53558,-0.08249,21,7,28,14711
+430,466,"Whiston Road, Haggerston",51.534464,-0.076341,2,19,21,8041
+431,467,"Southern Grove, Bow",51.523538,-0.030556,0,16,17,5862
+432,468,"Cantrell Road, Bow",51.521564,-0.022694,10,14,24,4738
+433,469,"Lindfield Street, Poplar",51.513757,-0.020467,12,30,44,7198
+434,470,"Mostyn Grove, Bow",51.530535,-0.025492,18,28,46,7913
+435,471,"Hewison Street, Old Ford",51.533283,-0.028155,11,7,19,9225
+436,472,"Malmesbury Road, Bow",51.529452,-0.027616,12,9,21,2660
+437,473,"Millharbour, Millwall",51.496137,-0.019355,12,5,19,3020
+438,474,"Gascoyne Road, Victoria Park",51.541515,-0.038557746,3,16,20,10874
+439,475,"Lightermans Road, Millwall",51.499041,-0.020157,4,24,31,8843
+440,476,"Stebondale Street, Cubitt Town",51.489096,-0.009205,14,15,29,4375
+441,477,"Spindrift Avenue, Millwall",51.49109,-0.018716,8,25,36,5525
+442,478,"Stepney Green Station, Stepney",51.521889,-0.04667,9,11,21,20164
+443,479,"Pott Street, Bethnal Green",51.527152,-0.058005,18,2,20,15438
+444,480,"Flamborough Street, Limehouse",51.5128711,-0.0389866,23,2,25,22200
+445,481,"Saunders Ness Road, Cubitt Town",51.487129,-0.0090011,32,0,35,13608
+446,482,"Exhibition Road Museums 2, South Kensington",51.495947,-0.17368958,2,11,14,12678
+447,483,"Albert Gardens, Stepney",51.51328,-0.047784,9,23,33,11436
+448,484,"Bromley High Street, Bow",51.528828,-0.013258,21,3,24,7403
+449,485,"Old Ford Road, Bethnal Green",51.531127,-0.048017,8,16,24,9995
+450,486,"Granby Street, Shoreditch",51.525645,-0.069543,7,30,37,17392
+451,487,"Canton Street, Poplar",51.511811,-0.025626,9,13,23,6542
+452,488,"Reardon Street, Wapping",51.506946,-0.058681,8,13,22,12089
+453,490,"Pennington Street, Wapping",51.508622,-0.065006,0,45,45,5755
+454,491,"Queen Mary's, Mile End",51.522507,-0.041378,9,34,45,14020
+455,492,"Maplin Street, Mile End",51.525501,-0.032267204,7,29,39,18106
+456,494,"South Quay East, Canary Wharf",51.50196,-0.016251,1,33,36,1737
+457,495,"Bow Church Station, Bow",51.528169,-0.018703,6,33,39,16328
+458,496,"Devons Road, Bow",51.52512,-0.015578,29,9,39,6298
+459,497,"Merchant Street, Bow",51.526578,-0.027581,5,21,27,5971
+460,498,"Bow Road Station, Bow",51.527058,-0.025296,3,38,42,10559
+461,499,"Furze Green, Bow",51.519265,-0.021345,2,34,36,13481
+462,500,"Ansell House, Stepney",51.520019,-0.05438,5,36,41,17457
+463,501,"Cephas Street, Bethnal Green",51.522561,-0.054883,9,15,24,9693
+464,502,"Bonner Gate, Victoria Park",51.53341,-0.049591815,11,10,21,24144
+465,503,"Cleveland Way, Stepney",51.520893,-0.051394,10,26,36,25039
+466,504,"St. John's Park, Cubitt Town",51.496454,-0.009506,12,17,30,3292
+467,505,"Ackroyd Drive, Bow",51.520398,-0.026768,3,21,29,10155
+468,506,"Bell Lane, Liverpool Street",51.517475,-0.075855,17,6,23,13843
+469,507,"Clarkson Street, Bethnal Green",51.528692,-0.059091,6,25,31,5557
+470,508,"Fournier Street, Whitechapel",51.519362,-0.074431,15,3,18,19796
+471,509,"Fore Street, Guildhall",51.517842,-0.090075,0,18,19,5436
+472,510,"Westferry DLR, Limehouse",51.509303,-0.025996,36,4,41,18266
+473,511,"Sutton Street, Shadwell",51.511066,-0.053558,4,27,33,19781
+474,512,"Pritchard's Road, Bethnal Green",51.532091,-0.06142,8,21,30,17497
+475,513,"Watney Market, Stepney",51.5142228,-0.055656,6,44,51,11011
+476,514,"Portman Square, Marylebone",51.516204,-0.155525,0,17,17,14733
+477,515,"Russell Gardens, Olympia",51.500088,-0.211316,11,13,24,5342
+478,516,"Chrisp Street Market, Poplar",51.5112,-0.014438,8,9,18,9123
+479,517,"Ford Road, Old Ford",51.532513,-0.033085,2,15,17,8800
+480,518,"Antill Road, Mile End",51.528224,-0.037471,1,27,30,9292
+481,519,"Teviot Street, Poplar",51.518811,-0.011662,13,20,33,2457
+482,520,"Bancroft Road, Bethnal Green",51.526041,-0.047218,7,12,21,9691
+483,521,"Driffield Road, Old Ford",51.534137,-0.037366,6,12,19,14433
+484,522,"Clinton Road, Mile End",51.525941,-0.036017,2,33,36,11959
+485,523,"Langdon Park, Poplar",51.51549,-0.013475,19,5,24,4646
+486,524,"Lancaster Gate , Bayswater",51.511654,-0.179668,3,35,38,17741
+487,525,"Blythe Road, Olympia",51.496927,-0.21350087,9,15,24,0
+488,526,"Lancaster Drive, Blackwall",51.503143,-0.008428,6,20,27,5277
+489,527,"Hansard Mews, Holland Park",51.503802,-0.215808,19,1,20,8614
+490,528,"Clarges Street, Mayfair",51.507326,-0.145827,0,14,16,5174
+491,529,"Manresa Road, Chelsea",51.486892,-0.170983,3,15,18,12535
+492,530,"Newby Place, Poplar",51.508896,-0.012413,15,2,18,4757
+493,531,"Twig Folly Bridge, Mile End",51.530326,-0.042744,9,12,21,15219
+494,532,"Jubilee Plaza, Canary Wharf",51.50357,-0.020068,44,18,63,18233
+495,533,"Wellington Row, Bethnal Green",51.528222,-0.069743,13,20,33,11689
+496,534,"Goldsmith's Row, Haggerston",51.531864,-0.066035,0,27,27,15533
+497,535,"Gloucester Avenue, Camden Town",51.537349,-0.147154,14,10,24,13644
+498,536,"Queensbridge Road, Haggerston",51.53385,-0.06992,12,23,35,8186
+499,537,"Old Montague Street, Whitechapel",51.51793,-0.067937,4,14,18,12546
+500,538,"Naval Row, Blackwall",51.508981,-0.00699,6,15,21,5968
+501,539,"Hoxton Station, Hoxton",51.531091,-0.075901,15,7,22,9916
+502,540,"Albany Street, The Regent's Park",51.528302,-0.144466,3,24,27,15674
+503,541,"Green Park Station, Mayfair",51.506613,-0.142844,1,27,28,35886
+504,542,"Salmon Lane, Limehouse",51.514115,-0.033828,21,10,33,11435
+505,543,"Lansdowne Walk, Ladbroke Grove",51.509591,-0.204666,6,15,21,3849
+506,544,"Percival Street, Finsbury",51.526153,-0.102208,1,20,22,9387
+507,545,"Arlington Road, Camden Town",51.539957,-0.145246,5,19,24,8577
+508,546,"New Fetter Lane, Holborn",51.517428,-0.107987,14,6,21,9879
+509,547,"East India DLR, Blackwall",51.509474,-0.002275,34,13,51,8967
+510,548,"Westminster Bridge Road, Elephant & Castle",51.498386,-0.107913,0,26,26,4109
+511,549,"Gaywood  Street, Elephant & Castle",51.49605,-0.104193,26,19,45,11573
+512,550,"Harford Street, Mile End",51.521564,-0.039264,6,16,23,8270
+513,551,"Import Dock, Canary Wharf",51.505772,-0.016460175,9,30,39,8077
+514,552,"Watney Street, Shadwell",51.511542,-0.056667,10,15,27,12968
+515,553,"Regent's Row , Haggerston",51.535678,-0.062546,14,9,24,35494
+516,554,"Aberfeldy Street, Poplar",51.513548,-0.005659,14,1,16,4121
+517,556,"Heron Quays DLR, Canary Wharf",51.502661,-0.021596,19,7,27,4131
+518,557,"King Edward Street, St Pauls",51.51601,-0.0985,0,19,20,7148
+519,558,"Page Street, Westminster",51.493978,-0.127554,2,19,24,15622
+520,559,"Abbotsbury Road, Holland Park",51.501391,-0.205991,8,16,24,5647
+521,560,"Ladbroke Grove Central, Ladbroke Grove",51.511624,-0.205921,2,19,21,4052
+522,561,"Rectory Square, Stepney",51.518369,-0.043371,7,15,22,9231
+523,562,"Bury Place, Holborn",51.51746,-0.12335,0,18,21,10322
+524,563,"Preston's Road, Cubitt Town",51.499286,-0.009152,6,19,26,4299
+525,564,"Somerset House, Strand",51.509943,-0.117619,26,15,41,23057
+526,565,"Selby Street, Whitechapel",51.521905,-0.063386,5,12,17,8294
+527,566,"Westfield Ariel Way, White City",51.509158,-0.224103,36,6,42,13866
+528,568,"Bishop's Bridge Road West, Bayswater",51.51616,-0.18697,8,10,18,18083
+529,569,"Pitfield Street Central, Hoxton",51.53213,-0.08299,13,17,30,9394
+530,570,"Upper Bank Street, Canary Wharf",51.503083,-0.017676,24,9,36,14853
+531,571,"Westfield Southern Terrace ,Shepherd's Bush",51.506256,-0.218337,23,6,29,7800
+532,572,"Greenland Road, Camden Town",51.539099,-0.141728,2,34,36,14476
+533,573,"Limerston Street, West Chelsea",51.485587,-0.18119,6,12,18,28837
+534,574,"Eagle Wharf Road, Hoxton",51.53356,-0.09315,34,11,45,23511
+535,576,"Alpha Grove, Millwall",51.497304,-0.022793,13,8,22,5266
+536,577,"Globe Town Market, Bethnal Green",51.528869,-0.047548,11,8,20,13596
+537,578,"Hollybush Gardens, Bethnal Green",51.527607,-0.057133,5,27,32,5767
+538,579,"Queen Street 2, Bank",51.511246,-0.093051,18,18,36,25346
+539,580,"Doddington Grove, Kennington",51.48692917,-0.102996299,15,21,36,14326
+540,581,"New Cavendish Street, Marylebone",51.519167,-0.147983,0,18,18,16062
+541,583,"Abingdon Green, Westminster",51.49764,-0.12597218,2,18,20,8199
+542,584,"Ilchester Gardens, Bayswater",51.51244,-0.19096,1,20,21,13326
+543,586,"Mudchute DLR, Cubitt Town",51.490645,-0.014582,26,4,31,3521
+544,587,"Monument Street, Monument",51.50964,-0.08497,8,14,22,21010
+545,588,"Hoxton Street, Hoxton",51.52959,-0.0801,16,11,27,7411
+546,589,"Drayton Gardens, West Chelsea",51.487196,-0.179369,0,18,18,21150
+547,590,"Greenberry Street, St.John's Wood",51.53256,-0.16862,15,11,26,4895
+548,592,"Bishop's Bridge Road East, Bayswater",51.5171,-0.18377,0,20,20,5425
+549,593,"Northdown Street, King's Cross",51.531066,-0.11934,0,21,21,6383
+550,594,"Kingsway Southbound, Strand",51.513875,-0.117774,19,13,33,9655
+551,595,"Hammersmith Road, Hammersmith",51.493267,-0.21985,12,9,22,14172
+552,596,"Parson's Green , Parson's Green",51.472817,-0.199783,18,0,21,17461
+553,597,"Fulham Park Road, Fulham",51.473471,-0.20782,6,21,27,10233
+554,598,"Southerton Road, Hammersmith",51.494499,-0.228188,33,4,38,11052
+555,599,"Manbre Road, Hammersmith",51.485743,-0.223616,14,14,28,6550
+556,600,"South Lambeth Road, Vauxhall",51.481747,-0.124642,14,7,21,20688
+557,601,"BBC White City, White City",51.514767,-0.225787,24,9,36,12248
+558,602,"Union Grove, Wandsworth Road",51.472993,-0.133972,29,15,45,11175
+559,603,"Caldwell Street, Stockwell",51.477839,-0.116493,30,14,44,13360
+560,604,"St Martins Close, Camden Town",51.538792,-0.138535,7,11,18,5940
+561,605,"Seymour Place, Marylebone",51.520331,-0.163667,2,27,29,11985
+562,606,"Addison Road, Holland Park",51.504199,-0.210941,14,12,26,6333
+563,607,"Putney Bridge Station, Fulham",51.468814,-0.210279,19,2,21,10765
+564,608,"Colet Gardens, Hammersmith",51.491093,-0.216493,24,6,30,1719
+565,609,"Sugden Road, Clapham",51.46512358,-0.157788279,3,16,19,9847
+566,610,"Danvers Street, West Chelsea",51.48256792,-0.172078187,4,16,21,13032
+567,611,"Princedale Road , Holland Park",51.50646524,-0.208486599,1,16,20,8717
+568,612,"Wandsworth Rd, Isley Court, Wandsworth Road",51.46925984,-0.141812513,7,23,30,10568
+569,613,"Woodstock Grove, Shepherd's Bush",51.50403821,-0.217400093,16,7,24,15982
+570,614,"London Fields, Hackney Central",51.54119,-0.058826101,16,5,21,23690
+571,615,"Finlay Street, Fulham",51.4768851,-0.215895601,8,16,24,12144
+572,616,"Aintree Street, Fulham",51.48102131,-0.209973497,9,15,24,13017
+573,617,"Elysium Place, Fulham",51.47107905,-0.207842908,11,10,21,6005
+574,618,"Eel Brook Common, Walham Green",51.47625965,-0.193254007,19,5,24,11536
+575,619,"Irene Road, Parsons Green",51.4737636,-0.197010096,37,6,43,8549
+576,620,"Surrey Lane, Battersea",51.47518024,-0.167160736,23,3,28,9300
+577,621,"Wandsworth Town Station, Wandsworth",51.46086446,-0.187427294,12,21,33,10711
+578,622,"Lansdowne Road, Ladbroke Grove",51.50748124,-0.205535908,1,28,29,12213
+579,623,"Nantes Close, Wandsworth",51.46193072,-0.180791784,17,4,22,4744
+580,624,"Courland Grove, Wandsworth Road",51.4729184,-0.132102704,10,27,40,9682
+581,625,"Queen's Circus, Battersea Park",51.47761941,-0.149551631,25,1,28,31019
+582,626,"Normand Park, West Kensington",51.48438657,-0.20481514,16,7,24,16992
+583,627,"Holden Street, Battersea",51.4687905,-0.158230901,10,10,20,4540
+584,628,"William Morris Way, Sands End",51.46881971,-0.184318843,11,15,26,11048
+585,629,"Morie Street, Wandsworth",51.45995384,-0.190184054,26,2,28,4049
+586,630,"Clarence Walk, Stockwell",51.47073264,-0.126994068,15,13,28,5819
+587,631,"Battersea Park Road, Nine Elms",51.4795017,-0.141770709,10,17,27,17212
+588,632,"Sheepcote Lane, Battersea",51.47053858,-0.163041605,15,11,28,7866
+589,633,"Vereker Road, West Kensington",51.48959104,-0.209378594,4,28,32,15337
+590,634,"Brook Green South, Brook Green",51.49434708,-0.215804559,11,22,33,9964
+591,635,"Greyhound Road, Hammersmith",51.48606206,-0.214428378,4,31,37,14091
+592,636,"South Park, Sands End",51.46706414,-0.193502076,15,13,28,9271
+593,637,"Spencer Park, Wandsworth Common",51.45787019,-0.174691623,14,10,25,5029
+594,638,"Falcon Road, Clapham Junction",51.46663393,-0.169821175,24,3,28,21247
+595,639,"Coomer Place, West Kensington",51.48357068,-0.202038682,24,3,27,17405
+596,640,"Silverthorne Road, Battersea",51.47286577,-0.148059277,25,3,28,11303
+597,641,"Archbishop's Park, Waterloo",51.49824168,-0.117495865,19,4,23,11123
+598,642,"Fawcett Close, Battersea",51.46916161,-0.174485792,27,9,36,5877
+599,643,"All Saints' Road, Portobello",51.5190427,-0.204764421,4,17,22,6254
+600,644,"Rainville Road, Hammersmith",51.48373225,-0.223852256,29,5,36,11268
+601,645,"Great Suffolk Street, The Borough",51.50173215,-0.100292412,4,17,21,9928
+602,646,"Buckingham Gate, Westminster",51.49886563,-0.137424571,4,11,16,17803
+603,647,"Richmond Way, Shepherd's Bush",51.50035306,-0.217515071,9,18,27,10750
+604,648,"Peterborough Road, Sands End",51.46904022,-0.19627483,18,11,30,6346
+605,649,"World's End Place, West Chelsea",51.48180515,-0.18027465,5,16,22,15689
+606,650,"St. Mark's Road, North Kensington",51.51687069,-0.213872396,17,4,21,10722
+607,651,"Thorndike Close, West Chelsea",51.48089844,-0.183853573,2,23,25,10166
+608,652,"Evesham Street, Avondale",51.51148696,-0.218190203,25,4,29,4620
+609,653,"Simpson Street, Clapham Junction",51.47084722,-0.17070367,16,9,25,16375
+610,654,"Ashmole Estate, Oval",51.48267821,-0.117661574,11,23,34,12155
+611,655,"Crabtree Lane, Fulham",51.48294452,-0.219346128,20,7,27,9420
+612,656,"Broomhouse Lane, Parsons Green",51.46841875,-0.199135704,7,22,29,5476
+613,657,"Blythe Road West, Shepherd's Bush",51.49968,-0.221791551,5,15,21,7188
+614,658,"Ethelburga Estate, Battersea Park",51.47729232,-0.16478637,30,0,30,26678
+615,659,"Blackfriars Station, St. Paul's",51.511934,-0.10307894,2,31,35,18351
+616,660,"West Kensington Station, West Kensington",51.49087074,-0.206029743,4,17,22,9979
+617,661,"All Saints Church, Portobello",51.51632095,-0.202608612,36,1,37,18018
+618,662,"Phene Street, Chelsea",51.48498496,-0.167919869,13,11,24,16025
+619,663,"Clarendon Road, Avondale",51.51323001,-0.211593602,8,16,24,5633
+620,664,"Austin Road, Battersea Park",51.474376,-0.155442787,8,15,24,14757
+621,665,"Smugglers Way, Wandsworth",51.46108367,-0.191722864,17,4,21,6108
+622,667,"Shepherd's Bush Road North, Shepherd's Bush",51.5015946,-0.222293381,7,27,34,11603
+623,668,"Ravenscourt Park Station, Hammersmith",51.49422354,-0.236769936,26,0,26,15440
+624,669,"Teversham Lane, Stockwell",51.47614939,-0.1232585,32,7,39,7343
+625,670,"Ashley Crescent, Battersea",51.46718562,-0.152248582,19,8,28,11013
+626,671,"Parsons Green Station, Parsons Green",51.475089,-0.201968,14,38,56,15507
+627,673,"Hibbert Street, Battersea",51.46517078,-0.18038939,28,7,36,14973
+628,674,"Carnegie Street, King's Cross",51.53546778,-0.11619105,10,30,40,8590
+629,675,"Usk Road, Clapham Junction",51.46348914,-0.182126248,8,22,30,9939
+630,676,"Hartington Road, Stockwell",51.47787084,-0.126874471,29,6,35,13944
+631,677,"Heath Road, Battersea",51.46866929,-0.146544642,12,15,27,6114
+632,678,"Esmond Street, Putney",51.46231278,-0.211468596,17,13,30,3177
+633,679,"Orbel Street, Battersea",51.47453545,-0.170210533,17,9,26,8759
+634,680,"Westbridge Road, Battersea",51.47768469,-0.170329317,15,12,28,17811
+635,681,"Bishop's Avenue, Fulham",51.47303687,-0.214749808,1,45,46,12695
+636,682,"Crisp Road, Hammersmith",51.48810829,-0.22660621,20,25,46,15010
+637,683,"Dorothy Road, Clapham Junction",51.46506424,-0.163750945,8,20,28,8607
+638,684,"Neville Gill Close, Wandsworth",51.45475251,-0.195197203,22,9,32,9167
+639,685,"Osiers Road, Wandsworth",51.46067005,-0.198735357,17,13,30,9211
+640,686,"Beryl Road, Hammersmith",51.48814438,-0.222456468,18,8,26,8175
+641,688,"Northfields, Wandsworth",51.46095151,-0.20066766,8,20,28,4728
+642,689,"Spanish Road, Clapham Junction",51.45922541,-0.180884959,6,24,30,3579
+643,690,"Stanley Grove, Battersea",51.47047503,-0.152130083,14,10,24,8499
+644,691,"Erin Close, Walham Green",51.47946386,-0.195777222,23,0,24,17673
+645,692,"Cadogan Close, Victoria Park",51.54211855,-0.028941601,22,0,22,17163
+646,693,"Felsham Road, Putney",51.464786,-0.215618902,8,10,18,8129
+647,694,"Putney Rail Station, Putney",51.46071722,-0.216526155,4,16,20,5343
+648,695,"Islington Green, Angel",51.53638435,-0.102757578,14,6,21,34191
+649,696,"Charing Cross Hospital, Hammersmith",51.48728535,-0.217995921,6,15,21,10628
+650,697,"Charlotte Terrace, Angel",51.53639219,-0.112721065,3,22,25,9067
+651,698,"Shoreditch Court, Haggerston",51.53908372,-0.070329419,25,10,35,10442
+652,699,"Belford House, Haggerston",51.5366541,-0.07023031,6,33,39,5191
+653,700,"Battersea Church Road, Battersea",51.47696496,-0.174347066,7,17,25,13439
+654,701,"Vicarage Crescent, Battersea",51.47287627,-0.176267008,18,12,30,16714
+655,702,"Durant Street, Bethnal Green",51.52868155,-0.065550321,5,17,24,11755
+656,703,"St. Bride Street, Holborn",51.51505991,-0.10534448,9,16,25,11514
+657,704,"Mexfield Road, East Putney",51.45682071,-0.202802098,6,12,18,3621
+658,705,"Upper Richmond Road, Putney",51.45971528,-0.212145939,19,6,25,5131
+659,706,"Snowsfields, London Bridge",51.50215353,-0.083632928,29,1,31,17114
+660,707,"Barons Court Station, West Kensington",51.49021762,-0.215087092,19,13,32,12392
+661,708,"Disraeli Road, Putney",51.46161068,-0.21614583,2,31,33,6450
+662,709,"Montserrat Road , Putney",51.46321128,-0.215550761,16,7,23,4600
+663,710,"Albert Bridge Road, Battersea Park",51.47439218,-0.163347594,10,10,20,21040
+664,711,"Everington Street, Fulham",51.48335692,-0.216305546,21,10,31,10343
+665,712,"Mile End Stadium, Mile End",51.51854104,-0.034903714,9,12,22,12243
+666,713,"Hawley Crescent, Camden Town",51.54100708,-0.14326094,10,11,22,6298
+667,714,"Stewart's Road, Wandsworth Road",51.47311696,-0.137235175,7,21,28,6420
+668,715,"Aylward Street, Stepney",51.51563007,-0.049067243,14,8,22,6804
+669,717,"Dunston Road , Haggerston",51.53658514,-0.075885686,9,34,43,20968
+670,718,"Ada Street, Hackney Central",51.53571683,-0.060291813,32,13,45,10197
+671,719,"Victoria Park Road, Hackney Central",51.53642464,-0.054162264,12,22,34,15014
+672,720,"Star Road, West Kensington",51.48724429,-0.205279052,7,15,23,10648
+673,721,"Wendon Street, Old Ford",51.53603947,-0.026262677,6,11,18,7965
+674,722,"Finnis Street, Bethnal Green",51.52458353,-0.058631453,8,11,19,8959
+675,723,"Stephendale Road, Sands End",51.46822047,-0.190346493,4,41,48,18913
+676,724,"Alma Road, Wandsworth",51.45799126,-0.184806157,12,16,28,6514
+677,725,"Walworth Square, Walworth",51.491327,-0.096518684,15,9,24,17510
+678,726,"Alfreda Street, Battersea Park",51.47505096,-0.150908371,10,11,22,12797
+679,727,"Chesilton Road, Fulham",51.47569809,-0.20587627,13,10,23,13462
+680,728,"Putney Bridge Road, East Putney",51.46199911,-0.206240805,8,21,29,5147
+681,729,"St. Peter's Terrace, Fulham",51.47893931,-0.208485293,12,12,24,15434
+682,730,"Bridge Avenue, Hammersmith",51.49208492,-0.229116862,6,11,18,13654
+683,731,"Michael Road, Walham Green",51.47727637,-0.189210466,29,8,37,7433
+684,732,"Duke Street Hill, London Bridge",51.50630441,-0.087262995,17,2,21,44557
+685,733,"Park Lane, Mayfair",51.50542628,-0.150817316,0,17,18,8277
+686,734,"Plough Terrace, Clapham Junction",51.46230566,-0.175407201,7,24,31,6892
+687,735,"Grant Road East, Clapham Junction",51.46489445,-0.17302926,17,11,28,10838
+688,736,"Queensdale Road, Shepherd's Bush",51.50659035,-0.216104479,26,2,28,5482
+689,737,"Fulham Broadway, Walham Green",51.47993289,-0.19411695,21,5,26,28542
+690,738,"Imperial Road, Sands End",51.47514228,-0.187278987,13,23,37,9129
+691,739,"Hortensia Road, West Brompton",51.48176572,-0.185273723,3,24,28,11377
+692,740,"Sirdar Road, Avondale",51.51092871,-0.214594781,2,24,26,2527
+693,741,"Freston Road, Avondale",51.5129814,-0.219486603,16,7,23,4991
+694,742,"Blenheim Crescent, Ladbroke Grove",51.51510818,-0.208565479,6,15,22,10747
+695,743,"Oxford Road, Putney",51.46079243,-0.212607684,19,10,29,3002
+696,744,"Ingrave Street, Clapham Junction",51.46745485,-0.172293499,30,0,30,4695
+697,745,"Upcerne Road, West Chelsea",51.47816972,-0.18243547,2,27,29,10716
+698,746,"Lots Road, West Chelsea",51.4795738,-0.17903854,2,22,24,10435
+699,747,"Ormonde Gate, Chelsea",51.48796408,-0.161765173,23,1,24,12853
+700,748,"Hertford Road, De Beauvoir Town",51.53727795,-0.079201849,14,11,25,13509
+701,749,"Haggerston Road, Haggerston",51.53932857,-0.074284675,15,22,37,18594
+702,750,"Culvert Road, Battersea",51.4710956,-0.157850096,24,3,27,6043
+703,751,"Newton Street, Covent Garden",51.51612862,-0.120909408,20,4,24,7262
+704,752,"London Street, Paddington",51.515117,-0.17371276,14,3,19,0
+705,754,"Grenfell Road, Avondale",51.5129006,-0.214762686,18,6,24,4222
+706,755,"The Vale, Chelsea",51.48512191,-0.174971902,1,23,24,18404
+707,756,"Prince of Wales Drive, Battersea Park",51.47515398,-0.159169801,4,17,21,14725
+708,757,"Harcourt Terrace, West Brompton",51.48795853,-0.187404506,6,17,24,16425
+709,758,"Westbourne Park Road, Portobello",51.51787005,-0.201005397,3,20,23,8039
+710,759,"Broadley Terrace, Marylebone",51.52456169,-0.165668686,0,18,18,5038
+711,761,"Humbolt Road, Fulham",51.48321729,-0.211860644,3,22,26,11531
+712,762,"Storey's Gate, Westminster",51.50070305,-0.129698963,0,19,21,38728
+713,763,"Mile End Park Leisure Centre, Mile End",51.52059714,-0.032566533,12,32,47,13321
+714,764,"St. John's Road, Clapham Junction",51.46239255,-0.16829214,28,3,33,12888
+715,765,"Ranelagh Gardens, Fulham",51.46760141,-0.20682737,26,12,39,6709
+716,766,"Ram Street, Wandsworth",51.45752945,-0.192165613,22,0,25,13160
+717,767,"Santos Road, Wandsworth",51.45705988,-0.200806304,22,8,30,2692
+718,768,"Clapham Common North Side, Clapham Common",51.46134382,-0.159322467,5,32,37,15315
+719,769,"Sandilands Road, Walham Green",51.473611,-0.191803,21,0,21,13940
+720,770,"Gwendwr Road, West Kensington",51.491026,-0.209121,7,23,30,9548
+721,771,"Rifle Place, Avondale",51.509224,-0.216016,11,9,21,4163
+722,772,"Binfield Road, Stockwell",51.47250956,-0.122831913,30,4,35,17024
+723,773,"Tallis Street, Temple",51.511891,-0.107349,0,24,24,8932
+724,774,"Hurlingham Park, Parsons Green",51.470131,-0.20464,15,5,20,5828
+725,775,"Little Brook Green, Brook Green",51.496664,-0.223868,27,6,33,6692
+726,776,"Abyssinia Close, Clapham Junction",51.460333,-0.167029,16,4,20,8985
+727,777,"Limburg Road, Clapham Junction",51.46192307,-0.165297857,17,4,21,4436
+728,779,"Houndsditch, Aldgate",51.514449,-0.077178979,3,25,28,12473
+729,780,"Imperial Wharf Station, Sands End",51.474665,-0.18316517,14,11,25,19235
+730,781,"Victoria & Albert Museum, South Kensington",51.495898,-0.173009,21,9,30,6050
+731,782,"Halford Road, West Kensington",51.483911,-0.19760944,4,19,24,14655
+732,783,"Monier Road, Hackney Wick",51.5403115,-0.021630359,19,7,27,13744
+733,784,"East Village, Queen Elizabeth Olympic Park",51.546326,-0.00993526,31,1,34,16196
+734,785,"Aquatic Centre, Queen Elizabeth Olympic Park",51.54094,-0.010510565,52,0,64,51524
+735,786,"Lee Valley VeloPark, Queen Elizabeth Olympic Park",51.549369,-0.015717614,26,16,44,14728
+736,787,"Timber Lodge, Queen Elizabeth Olympic Park",51.546805,-0.01469126,32,0,35,15319
+737,788,"Copper Box Arena, Queen Elizabeth Olympic Park",51.544909,-0.0205426,25,4,31,296
+738,789,"Podium, Queen Elizabeth Olympic Park",51.538718,-0.011889482,36,0,40,24484
+739,790,"Stratford Station, Stratford",51.541793,-0.00481,28,0,28,12809
+740,792,"Blackfriars Road, Southwark",51.505461,-0.10454093,7,35,42,13937
+741,793,"Cromer Street, Bloomsbury",51.528279,-0.11955857,8,19,28,9114
+742,794,"Victoria Rise, Clapham Common",51.461376,-0.14780467,7,16,23,9599
+743,795,"Euston Square Gardens, Euston",51.527068,-0.13186102,11,19,30,6248
+744,796,"Coram Street, Bloomsbury",51.524,-0.12640984,5,24,29,9341
+745,797,"Ossulston Street, Somers Town",51.5293,-0.12827903,18,11,30,11075
+746,798,"Birkenhead Street, King's Cross",51.53019988,-0.122299441,25,0,27,14068
+747,799,"Kings Gate House, Westminster",51.49769846,-0.137598896,1,21,24,7121
+748,800,"Sopwith Way, Battersea Park",51.48112194,-0.149035375,30,0,30,21386
+749,801,"Lavington Street, Bankside",51.50522417,-0.098031812,19,8,29,11332
+750,802,"Albert Square, Stockwell",51.47659006,-0.118256789,27,5,32,14605
+751,803,"Southwark Street, Bankside",51.50540994,-0.098341088,9,14,23,7357
+752,804,"Good's Way, King's Cross",51.53466774,-0.125078653,12,15,27,20404
+753,805,"The Metropolitan, Portobello",51.520509,-0.20080483,8,10,18,10635
+754,806,"Handyside Street, King's Cross",51.53724056,-0.124807386,2,25,27,10198
+755,807,"Bevington Road West, North Kensington",51.5212,-0.208888173,2,22,24,14699
+756,808,"Gauden Road, Clapham",51.464995,-0.13090885,7,21,28,17784
+757,809,"Lincoln's Inn Fields, Holborn",51.51627788,-0.118272992,22,6,28,8222
+758,810,"Tate Modern, Bankside",51.50672529,-0.098807246,21,9,30,13342
+759,811,"Westferry Circus, Canary Wharf",51.50570304,-0.027772743,12,23,36,20472
+760,812,"Here East North, Queen Elizabeth Olympic Park",51.54873119,-0.022606555,15,12,28,7042
+761,813,"New Spring Gardens Walk, Vauxhall",51.48780745,-0.122759626,32,3,37,6983
+762,814,"Clapham Road, Lingham Street, Stockwell",51.47143307,-0.123670736,22,8,30,7130
+763,815,"Lambeth Palace Road, Waterloo",51.5000892,-0.116628701,17,18,35,30213
+764,816,"Here East South, Queen Elizabeth Olympic Park",51.54653279,-0.02059759,27,1,28,5409
+765,817,"Riverlight South, Nine Elms",51.48133547,-0.138212296,5,21,26,18220
+766,818,"Westminster Pier, Westminster",51.501513,-0.12382322,2,25,27,54530
+767,819,"Belvedere Road 2, South Bank",51.50621,-0.114842,11,27,38,8572
+768,820,"Victory Place, Walworth",51.492807,-0.091938,14,10,24,8878
+769,821,"Battersea Power Station, Battersea Park",51.48350749,-0.147714557,6,20,27,33273
+770,826,"Allington Street, Victoria",51.496863,-0.1429434,8,19,28,30702
+771,827,"Cranmer Road, Stockwell",51.479601,-0.11147178,17,7,24,17434
+772,828,"Normandy Road, Stockwell",51.473874,-0.11258096,23,8,32,13378
+773,829,"Wynne Road, Stockwell",51.469217,-0.11268674,19,5,25,6228
+774,830,"Sidney Road, Stockwell",51.469202,-0.11902256,19,7,27,9366
+775,831,"St John's Crescent, Brixton",51.466232,-0.11317995,25,0,25,7545
+776,832,"Ferndale Road, Brixton",51.464019,-0.11578197,28,2,30,16270
+777,833,"Saltoun Road, Brixton",51.460232,-0.11537509,41,1,42,15121
+778,834,"Gas Holders, Battersea Park",51.477966,-0.14785703,24,1,26,19317
+779,835,"Farringdon Street, Holborn",51.516785,-0.10494775,0,25,25,9113
+780,836,"York Way, Kings Cross",51.541596,-0.12544145,1,23,24,9443
+781,838,"Fore Street Avenue, Guildhall",51.518093,-0.0914017,13,12,25,6755
+782,839,"Sea Containers, South Bank",51.508033,-0.10682363,1,29,30,17245
+783,840,"George Row, Bermondsey",51.498585,-0.068981764,15,7,22,18770
+784,841,"Tower Wharf, Bermondsey",51.500845,-0.074704305,5,14,20,15941
+785,844,"Canada Water Station, Rotherhithe",51.498439,-0.049150215,33,2,35,14750
+786,845,"Bermondsey Station, Bermondsey",51.497995,-0.063471392,20,8,30,12078
